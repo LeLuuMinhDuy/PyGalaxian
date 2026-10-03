@@ -76,21 +76,21 @@ Mỗi màn sẽ:
 ------------------------------------------------------------------------
 ## 8. Mục tiêu phát triển
 ### Giai đoạn 1
-- [] chạy được game gốc
-- [] Hiểu cấu trúc source
-- [] Hiểu cách máy bay hoạt động
-- [] Hiểu cách bắn đạn
+- chạy được game gốc
+- Hiểu cấu trúc source
+- Hiểu cách máy bay hoạt động
+- Hiểu cách bắn đạn
 ------------------------------------------------------------------------
 ## Giai đoạn 2
-- [] Thêm Rappid Fighter
-- [] Thêm Heavy Fighter
-- [] Thêm chuyển đổi giữa hai dạng
+- Thêm Rappid Fighter
+- Thêm Heavy Fighter
+- Thêm chuyển đổi giữa hai dạng
 ### Giai đoạn 3
-- [] Thêm enemy mới
-- [] Thêm Boss
-- [] Cân bằng độ khó
+- Thêm enemy mới
+- Thêm Boss
+- Cân bằng độ khó
   ### Giai đoạn 4
-- [] Hệ thống nâng cấp
-- [] Nhiều màn chơi và giai đoạn trong màn chơi
-- [] Hoàn thiện giao diện
-- [] Hoàn thiện âm thanh vad hình ảnh
+- Hệ thống nâng cấp
+- Nhiều màn chơi và giai đoạn trong màn chơi
+- Hoàn thiện giao diện
+- Hoàn thiện âm thanh vad hình ảnh
